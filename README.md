@@ -2,7 +2,7 @@
 
 **Administración de la Liga Fe.Me.Bal**
 
-Este es un proyecto de agenda desarrollado en Django que permite gestionar contactos, tareas y reuniones.
+Este es un proyecto de liga desarrollado en Django que permite gestionar las instituciones registradas, pocisiones del torneo local y tabla de goleadores.
 
 ## Funcionalidades
 
